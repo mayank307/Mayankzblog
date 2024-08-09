@@ -1,0 +1,10 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: darkseagreen;
+  font-size: large;
+  padding-left: 400px;
+  padding-top: 100px;
+}
+@page {
+  size: A4;
+}
