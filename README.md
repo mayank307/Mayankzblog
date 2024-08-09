@@ -1,2 +1,2 @@
-# Mayankzblog
+@Mayankzblog
 My personal blog website 
